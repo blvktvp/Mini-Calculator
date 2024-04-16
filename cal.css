@@ -30,7 +30,7 @@ body{
   display: flex;
   margin: auto;
   border-radius: 6px;
-  color: blue;
+  color: green;
 }
 .btn input[type='button']{
   width:90px;
