@@ -4,7 +4,7 @@
   font-family: 'poppins', sans-serif;
 }
 body{
-  background-color: #495250;
+  background-color: violet;
   display: grid;
   height: 100vh;
   place-items: center;
@@ -12,7 +12,7 @@ body{
 .main{
   width: 400px;
   height: 450px;
-  background-color: white;
+  background-color: red;
   position: absolute;
   border: 5px solid black;
   border-radius: 6px; 
@@ -30,7 +30,7 @@ body{
   display: flex;
   margin: auto;
   border-radius: 6px;
-  color: black;
+  color: blue;
 }
 .btn input[type='button']{
   width:90px;
@@ -43,9 +43,9 @@ body{
   cursor: pointer;
   font-size: 18px;
   transition: 0.5s;
-  background-color: #495250;
+  background-color: red;
   border-radius: 6px;
-  color: white;
+  color: blue;
 }
 .btn input[type='button']:hover{
   background-color: black;
