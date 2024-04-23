@@ -3,7 +3,7 @@
   margin: 0;
   font-family: 'poppins', sans-serif;
 }
-body
+body{
   background-color: purple;
   display: grid;
   height: 100vh;
